@@ -36,7 +36,7 @@ Hi there 👋 I am  Indrashis Paul 👨‍💻
 
 **Github Streak:**
 <p align = "center">
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=IndraP24">
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=IndraP24&theme=dracula">
 </p>
 
 ---
