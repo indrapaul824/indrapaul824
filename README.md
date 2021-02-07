@@ -1,5 +1,4 @@
 <!--
-### Hi there 👋
 **IndraP24/IndraP24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -20,6 +19,7 @@ Hi there 👋 I am  Indrashis Paul 👨‍💻
 
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=IndraP24.visitor-badge)](https://github.com/IndraP24)
+[![GitHub followers](https://img.shields.io/github/followers/IndraP24.svg?style=social&label=Follow)](https://github.com/IndraP24?tab=followers)
 [![HitCount](http://hits.dwyl.com/IndraP24/IndraP24.svg)](http://hits.dwyl.com/IndraP24/IndraP24)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/IndraP24) 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/IndraP24)
@@ -45,8 +45,8 @@ Hi there 👋 I am  Indrashis Paul 👨‍💻
 
 <p align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=IndraP24&hide=stars&show_icons=true&line_height=48">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IndraP24&count_private=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=IndraP24&hide=stars&show_icons=true&line_height=48&theme=dracula">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IndraP24&count_private=true&theme=dracula">
 
 </p>
 
