@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-### Hi there 👋 I am  Indrashis Paul 👩‍💻 
+<h1 align="center">
+Hi there 👋 I am  Indrashis Paul 👨‍💻 
+</h1>
 
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=IndraP24.visitor-badge)](https://github.com/IndraP24)
@@ -24,31 +25,9 @@ Here are some ideas to get you started:
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/IndraP24)
 
 
-<!--
-**JyotiJauhari/JyotiJauhari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
--->
 
-<!-- ⚡Loves Healthy Competition 👩‍💻 Lets have one! 
-<img align="center" alt="GIF" src="https://github.com/JyotiJauhari/JyotiJauhari/blob/master/gif/girlGOcodeojoo.gif" width="400px" height = "200px" />
--->
----
 
-### About me: 🤗😀
 
-- ⚡ Keenly interested in learning new technologies 👩‍💻  and always open to new opportunities.
-
-- Took my first step in Open Source with GSSoC 2020 as Participant and Campus Ambassador. ⭐
-
-- 🔭 I Worked as Project Mentor as SCI 2020, Open-Source Contributor as PSoC Summer of Code, Technical Intern at Cloud Conselage.
-
-- 🌱 I’m currently learning Android Development 👩‍💻✨
-
-- 👯 I’m looking to collaborate on more Open Source Projects.
-
-- 🤔 I’m looking for help in Competitive Programming and Hackathons.
-
-- 💬 Ask me about Open Source Contribution.
 <!---
 - 📫 How to reach me:    [![Linkedin Badge](https://img.shields.io/badge/-IndraP24-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jyoti-jauhari-007b7417b/)](https://www.linkedin.com/in/jyoti-jauhari-007b7417b/)
 
