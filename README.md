@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi there 👋 I am  Indrashis Paul 👨‍💻 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
+<h1 align="center">Hi there 👋 I am  Indrashis Paul  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 
 <h3 align="center">Data Analyst and Researcher || ML Team Memebr @DSC VIT BHOPAL || FullStack Machine Learning Enthusiast || Pythoneer 🐍</h3>
 
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ---
 
-<h2>ABOUT ME</h2>
+<h2>About Me</h2>
 
 I'm a mathematically proficient Data Analyst and Machine Learning researcher and practitioner striving towards becoming an expert in **FullStack Machine Learning**. My area of expertise, as of now, includes developing, researching, and productionizing optimum solutions for Real-World Problems by leveraging Machine Learning and Deep Learning technologies.
 
@@ -62,11 +62,11 @@ Check out the GitHub repository:
 
 ---
 
-### MY TECH STACK:
+### 👨‍💻 My Tech Stack:
 #### Machine Learing Stack:
-[![Python](https://img.shields.io/badge/-Python-033800?&logo=python&logoColor=0bf)](https://github.com/adamalston?tab=repositories&q=&type=&language=python)
-![PyTorch](https://img.shields.io/badge/-PyTorch-055e00?&logo=PyTorch&logoColor=f00)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-067300?&logo=TensorFlow&logoColor=f77c00)
+[![Python](https://img.shields.io/badge/-Python-033800?&logo=python&logoColor=informational)](https://github.com/adamalston?tab=repositories&q=&type=&language=python)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-067300?&logo=TensorFlow&logoColor=informational)
+![PyTorch](https://img.shields.io/badge/-PyTorch-055e00?&logo=PyTorch&logoColor=informational)
 
 ![NumPy](https://img.shields.io/badge/-NumPy-0d0138?&logo=NumPy&logoColor=ff6791)
 ![Pandas](https://img.shields.io/badge/-Pandas-130252?&logo=Pandas&logoColor=0ff)
