@@ -43,7 +43,8 @@ __Full Stack Deep Learning, UC Berkeley, Spring 2021 (Free version)__
 - CNNs and Computer Vision
 
 <h2>🔭 Currently working on:</h2>
-__1. Machine Learning Algorithms from Sratch__
+
+__1. Machine Learning Algorithms from Scratch__
 
 Check out the GitHub repository:
 
@@ -51,7 +52,7 @@ Check out the GitHub repository:
   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=IndraP24&repo=Machine-Learning-Algorithms&show_owner=True&theme=dracula">
 </p>
 
-__2. Dockerizing Python and ML-based applications__
+__2. Dockerizing Python and ML-based Applications__
 
 Check out the GitHub repository:
 
