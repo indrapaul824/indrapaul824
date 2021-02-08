@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 
 <!---
-- 📫 How to reach me:    [![Linkedin Badge](https://img.shields.io/badge/-IndraP24-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jyoti-jauhari-007b7417b/)](https://www.linkedin.com/in/jyoti-jauhari-007b7417b/)
+- 📫 How to reach me:    [![Linkedin Badge](https://img.shields.io/badge/-IndraP24-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jyoti-jauhari-007b7417b/)](https://www.linkedin.com/in/jyoti-jauhari-007b7417b/) --->
 
 
 **Github Streak:**
@@ -50,7 +50,9 @@ Here are some ideas to get you started:
 
 ---
 
-<h2>📫 How to reach me:</h2>
-
-<a href="mailto:indrashis985@gmail.com">![indrashis985@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
-<a href="https://www.linkedin.com/in/indrashis-paul-ba84b6194/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+ <h2 align="center">📫 Reach out to me on</h2>
+  <p align="center">
+    <a target="_blank"href="https://www.linkedin.com/in/indrashis-paul-ba84b6194"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a target="_blank"href="https://twitter.com/IndraP2408"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto:indrashis985@gmail.com?subject=Hello%20Indrashis,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  </p>
