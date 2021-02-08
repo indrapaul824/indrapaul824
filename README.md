@@ -64,9 +64,9 @@ Check out the GitHub repository:
 
 ### 👨‍💻 My Tech Stack:
 #### Machine Learing Stack:
-[![Python](https://img.shields.io/badge/-Python-033800?&logo=python&logoColor=informational)](https://github.com/adamalston?tab=repositories&q=&type=&language=python)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-067300?&logo=TensorFlow&logoColor=informational)
-![PyTorch](https://img.shields.io/badge/-PyTorch-055e00?&logo=PyTorch&logoColor=informational)
+[![Python](https://img.shields.io/badge/-Python-1b0275?&logo=python&logoColor=yellow)](https://github.com/adamalston?tab=repositories&q=&type=&language=python)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-170263?&logo=TensorFlow&logoColor=f77c00)
+![PyTorch](https://img.shields.io/badge/-PyTorch-130252?&logo=PyTorch&logoColor=f00)
 
 ![NumPy](https://img.shields.io/badge/-NumPy-0d0138?&logo=NumPy&logoColor=ff6791)
 ![Pandas](https://img.shields.io/badge/-Pandas-130252?&logo=Pandas&logoColor=0ff)
@@ -75,7 +75,7 @@ Check out the GitHub repository:
 
 
 #### Others:
-![Java](https://img.shields.io/badge/-Java-808080?&logo=Java)
+![Java](https://img.shields.io/badge/-Java-808080?&logo=Java&logoColor=orange)
 ![C++](https://img.shields.io/badge/-C++-9c9c9c?&logo=c%2b%2b&logoColor=00599C)
 [![C](https://img.shields.io/badge/-C-808080?&logo=C)](https://github.com/adamalston?tab=repositories&q=&type=&language=c)
 
