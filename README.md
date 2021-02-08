@@ -40,19 +40,24 @@ __Vellore Institute of Technology, Bhopal, Undergraduate (2019 - 2024)__
 
 __Full Stack Deep Learning, UC Berkeley, Spring 2021 (Free version)__
 - Deep Learning Fundamentals
+- CNNs and Computer Vision
 
 <h2>🔭 Currently working on:</h2>
 <h3>1. Machine Learning Algorithms from Sratch</h3>
 
 Check out the GitHub repository:
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=IndraP24&repo=Machine-Learning-Algorithms&show_owner=True&theme=dracula)](https://github.com/IndraP24/Machine-Learning-Algorithms)
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=IndraP24&repo=Machine-Learning-Algorithms&show_owner=True&theme=dracula">
+</p>
 
 <h3>2. Dockerizing Python and ML-based applications</h3>
 
 Check out the GitHub repository:
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=IndraP24&repo=Bank-Note-Authenticator-with-Docker-and-Flask&show_owner=True&theme=dracula)](https://github.com/IndraP24/Bank-Note-Authenticator-with-Docker-and-Flask)
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=IndraP24&repo=Bank-Note-Authenticator-with-Docker-and-Flask&show_owner=True&theme=dracula">
+</p>
 
 ---
 
