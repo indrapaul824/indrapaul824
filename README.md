@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">
-Hi there 👋 I am  Indrashis Paul 👨‍💻 
-</h1>
+<h1 align="center">Hi there 👋 I am  Indrashis Paul 👨‍💻 </h1>
+
+<h3 align="center">Data Analyst and Researcher || ML Team Memebr @DSC VIT BHOPAL || FullStack Machine Learning Enthusiast || Pythoneer 🐍</h3>
 
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=IndraP24.visitor-badge)](https://github.com/IndraP24)
@@ -31,8 +31,6 @@ Hi there 👋 I am  Indrashis Paul 👨‍💻
 <!---
 - 📫 How to reach me:    [![Linkedin Badge](https://img.shields.io/badge/-IndraP24-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jyoti-jauhari-007b7417b/)](https://www.linkedin.com/in/jyoti-jauhari-007b7417b/)
 
----
-<!--- ⚡ Fun fact: Can surf websites and tech stuffs for hours 😅😁, loves to look at ⭐. --->
 
 **Github Streak:**
 <p align = "center">
@@ -51,3 +49,8 @@ Hi there 👋 I am  Indrashis Paul 👨‍💻
 </p>
 
 ---
+
+<h2>📫 How to reach me:</h2>
+
+<a href="mailto:indrashis985@gmail.com">![indrashis985@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
+<a href="https://www.linkedin.com/in/indrashis-paul-ba84b6194/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
