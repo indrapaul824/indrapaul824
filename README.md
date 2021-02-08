@@ -43,7 +43,7 @@ __Full Stack Deep Learning, UC Berkeley, Spring 2021 (Free version)__
 - CNNs and Computer Vision
 
 <h2>🔭 Currently working on:</h2>
-<h3>1. Machine Learning Algorithms from Sratch</h3>
+__1. Machine Learning Algorithms from Sratch__
 
 Check out the GitHub repository:
 
@@ -51,7 +51,7 @@ Check out the GitHub repository:
   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=IndraP24&repo=Machine-Learning-Algorithms&show_owner=True&theme=dracula">
 </p>
 
-<h3>2. Dockerizing Python and ML-based applications</h3>
+__2. Dockerizing Python and ML-based applications__
 
 Check out the GitHub repository:
 
@@ -67,7 +67,7 @@ Check out the GitHub repository:
 
 **Github Streak:**
 <p align = "center">
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=IndraP24&theme=dracula">
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=IndraP24&line_height=40&theme=dracula">
 </p>
 
 ---
@@ -76,8 +76,8 @@ Check out the GitHub repository:
 
 <p align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=IndraP24&hide=stars&show_icons=true&line_height=48&theme=dracula">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IndraP24&count_private=true&theme=dracula">
+  <img src="https://github-readme-stats.vercel.app/api?username=IndraP24&hide=stars&show_icons=true&line_height=40&theme=dracula">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IndraP24&count_private=true&line_height=40&theme=dracula">
 
 </p>
 
