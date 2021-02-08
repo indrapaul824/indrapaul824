@@ -42,11 +42,19 @@ __Full Stack Deep Learning, UC Berkeley, Spring 2021 (Free version)__
 - Deep Learning Fundamentals
 
 <h2>🔭 Currently working on:</h2>
-<h4>Machine Learning Algorithms from Sratch</h4>
+<h3>1. Machine Learning Algorithms from Sratch</h3>
 
 Check out the GitHub repository:
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=IndraP24&repo=Machine-Learning-Algorithms&show_owner=True&theme=dracula)](https://github.com/IndraP24/Machine-Learning-Algorithms)
+
+<h3>2. Dockerizing Python and ML-based applications</h3>
+
+Check out the GitHub repository:
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=IndraP24&repo=Bank-Note-Authenticator-with-Docker-and-Flask&show_owner=True&theme=dracula)](https://github.com/IndraP24/Bank-Note-Authenticator-with-Docker-and-Flask)
+
+---
 
 
 
