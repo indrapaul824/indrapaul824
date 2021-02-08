@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi there 👋 I am  Indrashis Paul 👨‍💻 </h1>
+<h1 align="center">Hi there 👋 I am  Indrashis Paul 👨‍💻 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 
 <h3 align="center">Data Analyst and Researcher || ML Team Memebr @DSC VIT BHOPAL || FullStack Machine Learning Enthusiast || Pythoneer 🐍</h3>
 
@@ -24,13 +24,33 @@ Here are some ideas to get you started:
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/IndraP24) 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/IndraP24)
 
+---
+
+<h2>ABOUT ME</h2>
+
+I'm a mathematically proficient Data Analyst and Machine Learning researcher and practitioner striving towards becoming an expert in **FullStack Machine Learning**. My area of expertise, as of now, includes developing, researching, and productionizing optimum solutions for Real-World Problems by leveraging Machine Learning and Deep Learning technologies.
+
+
+<h2>💻 Currently Learning</h2>
+
+__Vellore Institute of Technology, Bhopal, Undergraduate (2019 - 2024)__
+- Applied Machine Learning
+- Computer Vision
+- Programming in Java
+
+__Full Stack Deep Learning, UC Berkeley, Spring 2021 (Free version)__
+- Deep Learning Fundamentals
+
+<h2>🔭 Currently working on:</h2>
+<h4>#Machine Learning Algorithms </h4>
+
+Check out the GitHub repository:
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=IndraP24&repo=Machine-Learning-Algorithms&show_owner=True&theme=dracula)](https://github.com/IndraP24/Machine-Learning-Algorithms)
 
 
 
-
-<!---
-- 📫 How to reach me:    [![Linkedin Badge](https://img.shields.io/badge/-IndraP24-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jyoti-jauhari-007b7417b/)](https://www.linkedin.com/in/jyoti-jauhari-007b7417b/) --->
-
+---
 
 **Github Streak:**
 <p align = "center">
