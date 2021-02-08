@@ -42,7 +42,7 @@ __Full Stack Deep Learning, UC Berkeley, Spring 2021 (Free version)__
 - Deep Learning Fundamentals
 
 <h2>🔭 Currently working on:</h2>
-<h4>#Machine Learning Algorithms </h4>
+<h4>Machine Learning Algorithms from Sratch</h4>
 
 Check out the GitHub repository:
 
