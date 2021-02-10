@@ -68,10 +68,21 @@ Check out the GitHub repository:
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-170263?&logo=TensorFlow&logoColor=f77c00)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-130252?&logo=PyTorch&logoColor=f00)
 
+<a><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=yellow"/></a>
+<a><img src="https://img.shields.io/badge/NumPy%20-%23013243.svg?&style=for-the-badge&logo=NumPy&logoColor=0ff"/></a>
+<a><img src="https://img.shields.io/badge/Pandas%20-%23150458.svg?&style=for-the-badge&logo=Pandas&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Matplotlib%20-%2311557c.svg?&style=for-the-badge&logo=Matplotlib&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Seaborn%20-%2314354C.svg?&style=for-the-badge&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBzdGFuZGFsb25lPSJubyI/Pgo8IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDIwMDEwOTA0Ly9FTiIKICJodHRwOi8vd3d3LnczLm9yZy9UUi8yMDAxL1JFQy1TVkctMjAwMTA5MDQvRFREL3N2ZzEwLmR0ZCI+CjxzdmcgdmVyc2lvbj0iMS4wIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciCiB3aWR0aD0iMTc0LjAwMDAwMHB0IiBoZWlnaHQ9IjE3NS4wMDAwMDBwdCIgdmlld0JveD0iMCAwIDE3NC4wMDAwMDAgMTc1LjAwMDAwMCIKIHByZXNlcnZlQXNwZWN0UmF0aW89InhNaWRZTWlkIG1lZXQiPgo8bWV0YWRhdGE+CkNyZWF0ZWQgYnkgcG90cmFjZSAxLjE2LCB3cml0dGVuIGJ5IFBldGVyIFNlbGluZ2VyIDIwMDEtMjAxOQo8L21ldGFkYXRhPgo8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjAwMDAwMCwxNzUuMDAwMDAwKSBzY2FsZSgwLjEwMDAwMCwtMC4xMDAwMDApIgpmaWxsPSIjMDAwMDAwIiBzdHJva2U9Im5vbmUiPgo8cGF0aCBkPSJNNzE1IDE3MTUgYy0yNTkgLTQ5IC00NzkgLTIxNCAtNTk1IC00NDUgLTY5IC0xMzkgLTkxIC0yMzIgLTkxIC0zOTMKMCAtMzkwIDI1MyAtNzE1IDYzNiAtODE4IDExMyAtMzAgMzA3IC0zMCA0MjAgMCAzMTkgODUgNTUzIDMzMSA2MjEgNjUxIDE4IDg3CjE4IDI1MyAtMiAzNDggLTU4IDI4NCAtMjczIDUyOSAtNTQ3IDYyMyAtMTQ1IDUwIC0yOTcgNjEgLTQ0MiAzNHogbTM2MCAtNDEKYzIzMiAtNjMgNDI2IC0yMTkgNTMyIC00MjkgOTggLTE5MiAxMDggLTQ1OCAyNyAtNjYxIC03NyAtMTk0IC0yMzAgLTM1NyAtNDE1Ci00NDQgLTIxMSAtOTkgLTQ3NiAtOTkgLTY4NyAwIC0yMzIgMTA5IC0zOTMgMzA3IC00NTMgNTU4IC0yOCAxMTYgLTIzIDMxMSAxMQo0MTcgOTUgMzAyIDM0MyA1MTkgNjU1IDU3NSA3MCAxMyAyNTkgNCAzMzAgLTE2eiIvPgo8cGF0aCBkPSJNNTY4IDk0OSBjLTgyIC0xMSAtMTk1IC00OSAtMzU0IC0xMTkgbC0xMjEgLTUzIDkgLTQ2IGM0IC0yNSAxOCAtNzUKMzAgLTExMSAyMCAtNjAgMjIgLTYzIDI4IC0zNSBsNSAzMCA5MyAzIDkyIDMgMCA1OSAwIDYwIDkwIDAgYzczIDAgOTAgMyA5MAoxNSAwIDEyIDE4IDE1IDEwMCAxNSBsMTAwIDAgMCAtNTUgMCAtNTUgOTUgMCA5NSAwIDAgLTcwIDAgLTcwIDkwIDAgOTAgMCAwCi00NSAwIC00NSA5MCAwIGM4MyAwIDkwIC0xIDkwIC0yMCAwIC0xOSA3IC0yMCA4OSAtMjAgNzcgMCA5MCAtMiA5MyAtMTcgNwotMzggMTQzIDE4NiAxNTAgMjQ3IDMgMjAgLTUgMjUgLTgyIDQ2IC0xMDkgMjkgLTE3NyA1NSAtMzg5IDE0OSAtMjEwIDkyIC0yOTIKMTIwIC0zOTQgMTM0IC04NiAxMiAtODQgMTIgLTE3OSAweiIvPgo8cGF0aCBkPSJNNTUyIDQ1MyBsMyAtMjk4IDYwIC0yMiBjMTA1IC0zOCA5NSAtNjggOTUgMjk3IGwwIDMyMCAtODAgMCAtODAgMAoyIC0yOTd6Ii8+CjxwYXRoIGQ9Ik0zNjAgNTAxIGwwIC0yMjAgMzYgLTI5IGMyMCAtMTcgNTggLTQyIDg1IC01NyBsNDkgLTI2IDAgMjc1IDAgMjc2Ci04NSAwIC04NSAwIDAgLTIxOXoiLz4KPHBhdGggZD0iTTczMCAzNzEgbDAgLTI2OCAzOCAtNyBjMjAgLTMgNTYgLTYgODAgLTYgbDQyIDAgMCAxNzggYzAgOTcgMyAyMjEKNyAyNzUgbDYgOTcgLTg2IDAgLTg3IDAgMCAtMjY5eiIvPgo8cGF0aCBkPSJNMTgwIDU0NyBjMCAtNjAgMzAgLTExMyAxMTkgLTIwOCBsNTAgLTU0IDEgMTU4IDAgMTU3IC04NSAwIC04NSAwIDAKLTUzeiIvPgo8cGF0aCBkPSJNOTEwIDI5NSBsMCAtMjA1IDI4IDEgYzE1IDAgNTIgNiA4MiAxMiBsNTUgMTIgMyAxOTMgMiAxOTIgLTg1IDAKLTg1IDAgMCAtMjA1eiIvPgo8cGF0aCBkPSJNMTEwMCAyNjUgbDAgLTE0NSA1MSAyMCBjMjggMTEgNjQgMjcgODAgMzUgbDI5IDE2IDAgMTA5IDAgMTEwIC04MAowIC04MCAwIDAgLTE0NXoiLz4KPHBhdGggZD0iTTEyODAgMjg0IGwwIC04NSAzMyAyMiBjODMgNTkgMTM1IDExMCAxMzAgMTI5IC01IDE4IC0xNCAyMCAtODQgMjAKbC03OSAwIDAgLTg2eiIvPgo8L2c+Cjwvc3ZnPgo="/></a>
+
+<a><img src="https://img.shields.io/badge/PyTorch%20-%23D00000.svg?&style=for-the-badge&logo=PyTorch&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" /></a>
+<a><img src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/></a>
+</br>
+
 ![NumPy](https://img.shields.io/badge/-NumPy-0d0138?&logo=NumPy&logoColor=ff6791)
 ![Pandas](https://img.shields.io/badge/-Pandas-130252?&logo=Pandas&logoColor=0ff)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-170263?&logo=Matplotlib&logoColor=336791)
-![Seaborn](https://img.shields.io/badge/-Seaborn-1b0275?&logo=Seaborn&logoColor=336791)
+[![Seaborn](https://img.shields.io/badge/-Seaborn-1b0275?&logo=Seaborn&logoColor=336791)](https://seaborn.pydata.org/_static/logo-wide-lightbg.svg)
 
 
 #### Others:
