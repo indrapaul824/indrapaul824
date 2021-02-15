@@ -40,7 +40,8 @@ __Vellore Institute of Technology, Bhopal, Undergraduate (2019 - 2024)__
 
 __Full Stack Deep Learning, UC Berkeley, Spring 2021 (Free version)__
 - Deep Learning Fundamentals
-- CNNs and Computer Vision
+- CNN and Computer Vision
+- RNN
 
 <h2>🔭 Currently working on:</h2>
 
