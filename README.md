@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=IndraP24.visitor-badge)](https://github.com/IndraP24)
 [![GitHub followers](https://img.shields.io/github/followers/IndraP24.svg?style=social&label=Follow)](https://github.com/IndraP24?tab=followers)
-[![HitCount](http://hits.dwyl.com/IndraP24/IndraP24.svg)](http://hits.dwyl.com/IndraP24/IndraP24)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/IndraP24) 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/IndraP24)
 
@@ -53,12 +52,12 @@ Check out the GitHub repository:
   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=IndraP24&repo=Machine-Learning-Algorithms&show_owner=True&theme=dracula">
 </p>
 
-__2. Dockerizing Python and ML-based Applications__
+__2. Smart In-Meeting Emoji Reactor__
 
 Check out the GitHub repository:
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=IndraP24&repo=Bank-Note-Authenticator-with-Docker-and-Flask&show_owner=True&theme=dracula">
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=IndraP24&repo=Sem-4-Project-Smart-In-Meeting-Emoji-Reactor&show_owner=True&theme=dracula">
 </p>
 
 ---
