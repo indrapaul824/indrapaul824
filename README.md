@@ -41,6 +41,12 @@ __Full Stack Deep Learning, UC Berkeley, Spring 2021 (Free version)__
 - Deep Learning Fundamentals
 - CNN and Computer Vision
 - RNN
+- Transformers
+
+Check out the GitHub repository:
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=IndraP24&repo=Full-Stack-Deep-Learning-Spring21&show_owner=True&theme=dracula">
+</p>
 
 <h2>🔭 Currently working on:</h2>
 
