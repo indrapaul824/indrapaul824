@@ -101,7 +101,7 @@ Check out the GitHub repository:
 
 <p align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=IndraP24&show_icons=true&line_height=48&theme=dracula">
+  <img src="https://github-readme-stats.vercel.app/api?username=IndraP24&show_icons=true&line_height=40&theme=dracula">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IndraP24&count_private=true&line_height=40&theme=dracula">
 
 </p>
