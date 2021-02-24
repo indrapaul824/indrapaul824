@@ -84,7 +84,7 @@ Check out the GitHub repository:
 
 
 #### Others:
-<a><img src="https://img.shields.io/badge/Java%20-%23D00000.svg?&style=for-the-badge&logo=Java&logoColor=0ff"/></a>
+<a><img src="https://img.shields.io/badge/Java%20-%23D00000.svg?&style=for-the-badge&logo=Java&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/C++%20-%239c9c9c.svg?&style=for-the-badge&logo=c%2b%2b&logoColor=00599C"/></a>
 [![C](https://img.shields.io/badge/C%20-%23808080.svg?&style=for-the-badge&logo=C)](https://github.com/adamalston?tab=repositories&q=&type=&language=c)
 
@@ -92,7 +92,7 @@ Check out the GitHub repository:
 
 **Github Streak:**
 <p align = "center">
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=IndraP24&line_height=40&theme=dracula">
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=IndraP24&line_height=30&theme=dracula">
 </p>
 
 ---
@@ -101,7 +101,7 @@ Check out the GitHub repository:
 
 <p align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=IndraP24&show_icons=true&line_height=30&theme=dracula&include_all_commits=true&count_private=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=IndraP24&show_icons=true&line_height=24&theme=dracula&include_all_commits=true&count_private=true">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IndraP24&count_private=true&line_height=40&theme=dracula&layout=compact&langs_count=8">
 
 </p>
