@@ -45,7 +45,7 @@ __Full Stack Deep Learning, UC Berkeley, Spring 2021 (Free version)__
 
 Check out the GitHub repository:
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=IndraP24&repo=Full-Stack-Deep-Learning-Spring21&show_owner=True&theme=dracula">
+  <a herf="https://github.com/IndraP24/Full-Stack-Deep-Learning-Spring21"><img align="center" src = "https://github-readme-stats.vercel.app/api/pin/?username=IndraP24&repo=Full-Stack-Deep-Learning-Spring21&show_owner=True&theme=dracula">
 </p>
 
 <h2>🔭 Currently working on:</h2>
@@ -55,7 +55,7 @@ __1. Machine Learning Algorithms from Scratch__
 Check out the GitHub repository:
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=IndraP24&repo=Machine-Learning-Algorithms&show_owner=True&theme=dracula">
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=IndraP24&repo=Machine-Learning-Algorithms&show_owner=True&theme=dracula" href="https://github.com/IndraP24/Machine-Learning-Algorithms">
 </p>
 
 __2. Smart In-Meeting Emoji Reactor__
@@ -77,16 +77,16 @@ Check out the GitHub repository:
 <a><img src="https://img.shields.io/badge/Matplotlib%20-%2311557c.svg?&style=for-the-badge&logo=Matplotlib&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Seaborn%20-%2314354C.svg?&style=for-the-badge&logo=Seaborn&logoColor=white"/></a>
 
-<a><img src="https://img.shields.io/badge/PyTorch%20-%23D00000.svg?&style=for-the-badge&logo=PyTorch&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/PyTorch%20-%239932CC.svg?&style=for-the-badge&logo=PyTorch&logoColor=red"/></a>
 <a><img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" /></a>
-<a><img src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Keras%20-%23FFFFF0.svg?&style=for-the-badge&logo=Keras&logoColor=red"/></a>
 </br>
 
 
 #### Others:
-<a><img src="https://img.shields.io/badge/-Java-808080?&logo=Java&logoColor=orange"/></a>
-<a><img src="https://img.shields.io/badge/-C++-9c9c9c?&logo=c%2b%2b&logoColor=00599C"/></a>
-[![C](https://img.shields.io/badge/-C-808080?&logo=C)](https://github.com/adamalston?tab=repositories&q=&type=&language=c)
+<a><img src="https://img.shields.io/badge/Java%20-%23D00000.svg?&style=for-the-badge&logo=Java&logoColor=0ff"/></a>
+<a><img src="https://img.shields.io/badge/C++%20-%239c9c9c.svg?&style=for-the-badge&logo=c%2b%2b&logoColor=00599C"/></a>
+[![C](https://img.shields.io/badge/C%20-%23808080.svg?&style=for-the-badge&logo=C)](https://github.com/adamalston?tab=repositories&q=&type=&language=c)
 
 ---
 
@@ -101,7 +101,7 @@ Check out the GitHub repository:
 
 <p align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=IndraP24&show_icons=true&line_height=40&theme=dracula">
+  <img src="https://github-readme-stats.vercel.app/api?username=IndraP24&show_icons=true&line_height=40&theme=dracula&include_all_commits=true&count_private=true">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IndraP24&count_private=true&line_height=40&theme=dracula">
 
 </p>
