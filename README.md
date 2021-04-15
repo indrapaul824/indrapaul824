@@ -45,7 +45,7 @@ __Full Stack Deep Learning, UC Berkeley, Spring 2021 (Free version)__
 
 Check out the GitHub repository:
 <p align = "center">
-  <a herf="https://github.com/IndraP24/Full-Stack-Deep-Learning-Spring21"><img align="center" src = "https://github-readme-stats.vercel.app/api/pin/?username=IndraP24&repo=Full-Stack-Deep-Learning-Spring21&show_owner=True&theme=dracula">
+  <a herf="https://github.com/IndraP24/FSDL-21-Codes-and-Lab"><img align="center" src = "https://github-readme-stats.vercel.app/api/pin/?username=IndraP24&repo=FSDL-21-Codes-and-Lab&show_owner=True&theme=dracula">
 </p>
 
 <h2>🔭 Currently working on:</h2>
