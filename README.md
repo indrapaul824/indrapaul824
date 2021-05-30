@@ -42,6 +42,11 @@ __Full Stack Deep Learning, UC Berkeley, Spring 2021 (Free version)__
 - ML Projects
 - Infrastructure and Tooling
 
+__NYU Deep Learning, Yann LeCun and Alfredo Canziani, Spring 21 (YouTube Playlist)__
+- Fundamentals od Deep Learning
+- Neural Nets
+- Deep Learning with PyTroch
+
 ---
 
 ### 👨‍💻 My Tech Stack:
