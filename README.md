@@ -32,7 +32,7 @@ I'm a mathematically proficient Data Analyst and Machine Learning researcher and
 
 <h2>💻 Currently Learning</h2>
 
-__Vellore Institute of Technology, Bhopal, Undergraduate (2019 - 2024)__
+__CS Undergrad [splz. in AI & ML], Vellore Institute of Technology, Bhopal (2019 - 2024)__
 - Applied Machine Learning
 - Computer Vision
 - Programming in Java
