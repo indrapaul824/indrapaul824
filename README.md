@@ -38,33 +38,9 @@ __Vellore Institute of Technology, Bhopal, Undergraduate (2019 - 2024)__
 - Programming in Java
 
 __Full Stack Deep Learning, UC Berkeley, Spring 2021 (Free version)__
-- Deep Learning Fundamentals
-- CNN and Computer Vision
-- RNN
 - Transformers
-
-Check out the GitHub repository:
-<p align = "center">
-  <a herf="https://github.com/IndraP24/FSDL-21-Codes-and-Lab"><img align="center" src = "https://github-readme-stats.vercel.app/api/pin/?username=IndraP24&repo=FSDL-21-Codes-and-Lab&show_owner=True&theme=dracula">
-</p>
-
-<h2>🔭 Currently working on:</h2>
-
-__1. Machine Learning Algorithms from Scratch__
-
-Check out the GitHub repository:
-
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=IndraP24&repo=Machine-Learning-Algorithms&show_owner=True&theme=dracula" href="https://github.com/IndraP24/Machine-Learning-Algorithms">
-</p>
-
-__2. Smart In-Meeting Emoji Reactor__
-
-Check out the GitHub repository:
-
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=IndraP24&repo=Sem-4-Project-Smart-In-Meeting-Emoji-Reactor&show_owner=True&theme=dracula">
-</p>
+- ML Projects
+- Infrastructure and Tooling
 
 ---
 
