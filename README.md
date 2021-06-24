@@ -43,7 +43,7 @@ __Full Stack Deep Learning, UC Berkeley, Spring 2021 (Free version)__
 - Infrastructure and Tooling
 
 __NYU Deep Learning, Yann LeCun and Alfredo Canziani, Spring 21 (YouTube Playlist)__
-- Fundamentals od Deep Learning
+- Fundamentals of Deep Learning
 - Neural Nets
 - Deep Learning with PyTroch
 
@@ -74,10 +74,21 @@ __NYU Deep Learning, Yann LeCun and Alfredo Canziani, Spring 21 (YouTube Playlis
 <a><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/></a>
 
-#### Others:
+#### Other Languages:
 <a><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/></a>
+
+#### Tools:
+<a><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/></a>
+
+#### System Specs:
+<a><img src="https://img.shields.io/badge/Pop!_OS-DELL_INSPIRON_15-0078D6?style=for-the-badge&logo=Linux&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Intel-Core_i5_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/NVIDIA-GeForce%20MX150-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/></a>
 
 ---
 
