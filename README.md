@@ -53,21 +53,31 @@ __NYU Deep Learning, Yann LeCun and Alfredo Canziani, Spring 21 (YouTube Playlis
 #### Machine Learing Stack:
 
 <a><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=yellow"/></a>
-<a><img src="https://img.shields.io/badge/NumPy%20-%23013243.svg?&style=for-the-badge&logo=NumPy&logoColor=0ff"/></a>
+<a><img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Pandas%20-%23150458.svg?&style=for-the-badge&logo=Pandas&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Matplotlib%20-%2311557c.svg?&style=for-the-badge&logo=Matplotlib&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Seaborn%20-%2314354C.svg?&style=for-the-badge&logo=Seaborn&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/></a>
 
 <a><img src="https://img.shields.io/badge/PyTorch%20-%239932CC.svg?&style=for-the-badge&logo=PyTorch&logoColor=red"/></a>
 <a><img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" /></a>
-<a><img src="https://img.shields.io/badge/Keras%20-%23FFFFF0.svg?&style=for-the-badge&logo=Keras&logoColor=red"/></a>
+<a><img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"/></a>
 </br>
 
+#### Full Stack Dev:
+<a><img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
+<a><img src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/></a>
 
 #### Others:
-<a><img src="https://img.shields.io/badge/Java%20-%23D00000.svg?&style=for-the-badge&logo=Java&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/C++%20-%239c9c9c.svg?&style=for-the-badge&logo=c%2b%2b&logoColor=00599C"/></a>
-[![C](https://img.shields.io/badge/C%20-%23808080.svg?&style=for-the-badge&logo=C)](https://github.com/adamalston?tab=repositories&q=&type=&language=c)
+<a><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/></a>
 
 ---
 
