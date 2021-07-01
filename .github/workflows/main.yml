@@ -1,9 +1,6 @@
 name: Progress Bar CI
 
-on:
-  workflow_dispatch:
-  schedule:
-    - cron: "*/5 * * * *"
+on: push
 
 jobs:
   build:
