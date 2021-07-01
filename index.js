@@ -15,40 +15,107 @@ function generateProgressBar() {
 }
 
 const readme = `\
-# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-<p align="center">
-<a href="https://twitter.com/apoorv__tyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="apoorv__tyagi" height="30" width="30" /></a>&nbsp;
-<a href="https://linkedin.com/in/apoorvtyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="30" width="30" /></a>&nbsp;
-<a href="https://medium.com/@apoorvtyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="apoorvtyagi" height="30" width="30" /></a>&nbsp;
-<a href="http://discord.com/users/apoorv#4040" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="apoorv#4040" height="40" width="30" /></a>&nbsp;
-<a href="https://www.buymeacoffee.com/apoorvtyagi"><img align="center" alt="Buy me a Coffee" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" /></a>
-</p>
-![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
-- 🏦 I'm a Software Engineer working for a health tech startup in India 
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 📝 I regulary write technical articles for [hashnode](https://apoorvtyagi.tech/), [dev.to](https://dev.to/apoorvtyagi) and [Medium](https://apoorvtyagi.medium.com/)
-- 💻 I use daily **.java**, **.py**, **.sql**
-- 📖 I am currently reading [zero to one by Peter Thiel](https://amzn.to/3dTQa0k)
-- 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals), silicon valley & startups
-- 👯 We can connect to play some games of Chess ♟
-- ⚡ Fun fact: Je connais un peu le français
-<p align="center">
-      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
-      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="85" height="70"/> 
-      <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="IPYNB" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="110" height="75"/> 
-</p>
+<h1 align="center">Hi there 👋 I am  Indrashis Paul  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
+
+<h3 align="center">Data Analyst and Researcher || ML Team Memebr @DSC VIT BHOPAL || FullStack Machine Learning Enthusiast || Pythoneer 🐍</h3>
+
+
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=IndraP24.visitor-badge)](https://github.com/IndraP24)
+[![GitHub followers](https://img.shields.io/github/followers/IndraP24.svg?style=social&label=Follow)](https://github.com/IndraP24?tab=followers)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/IndraP24) 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/IndraP24)
+
 ---
-### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25px'> My Github Stats:
-![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=apoorvtyagi&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvtyagi&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+
+<h2>About Me</h2>
+
+I'm a mathematically proficient Data Analyst and Machine Learning researcher and practitioner striving towards becoming an expert in **FullStack Machine Learning**. My area of expertise, as of now, includes developing, researching, and productionizing optimum solutions for Real-World Problems by leveraging Machine Learning and Deep Learning technologies.
+
+
+<h2>💻 Currently Learning</h2>
+
+__CS Undergrad [splz. in AI & ML], Vellore Institute of Technology, Bhopal (2019 - 2024)__
+- Applied Machine Learning
+- Computer Vision
+- Programming in Java
+
+__Full Stack Deep Learning, UC Berkeley, Spring 2021 (Free version)__
+- Transformers
+- ML Projects
+- Infrastructure and Tooling
+
+__NYU Deep Learning, Yann LeCun and Alfredo Canziani, Spring 21 (YouTube Playlist)__
+- Fundamentals of Deep Learning
+- Neural Nets
+- Deep Learning with PyTroch
+
+---
+
+### 👨‍💻 My Tech Stack:
+#### Machine Learing Stack:
+
+<a><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=yellow"/></a>
+<a><img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Pandas%20-%23150458.svg?&style=for-the-badge&logo=Pandas&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Matplotlib%20-%2311557c.svg?&style=for-the-badge&logo=Matplotlib&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Seaborn%20-%2314354C.svg?&style=for-the-badge&logo=Seaborn&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/></a>
+
+<a><img src="https://img.shields.io/badge/PyTorch%20-%239932CC.svg?&style=for-the-badge&logo=PyTorch&logoColor=red"/></a>
+<a><img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" /></a>
+<a><img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"/></a>
+</br>
+
+#### Backend and Production:
+<a><img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/></a>
+
+#### Other Languages:
+<a><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/></a>
+
+#### Tools:
+<a><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/></a>
+
+#### System Specs:
+<a><img src="https://img.shields.io/badge/Pop!_OS-DELL_INSPIRON_15-0078D6?style=for-the-badge&logo=Linux&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Intel-Core_i5_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/NVIDIA-GeForce%20MX150-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/></a>
+
+---
+
+**Github Streak:**
+<p align = "center">
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=IndraP24&line_height=30&theme=dracula">
+</p>
+
+---
+
+**Github Stats:**
+
+<p align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=IndraP24&show_icons=true&line_height=24&theme=dracula&include_all_commits=true&count_private=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IndraP24&count_private=true&line_height=40&theme=dracula&layout=compact&langs_count=8">
+
+</p>
+
+---
+
+ <h2 align="center">📫 Reach out to me on</h2>
+  <p align="center">
+    <a target="_blank"href="https://www.linkedin.com/in/indrashis-paul-ba84b6194"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a target="_blank"href="https://twitter.com/PaulIndrashis"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto:indrashis985@gmail.com?subject=Hello%20Indrashis,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  </p>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 ⏳ **Year Progress** ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} % as on ⏰ ${new Date().getDate()+'-'+(new Date().getMonth()+1)+'-'+new Date().getFullYear()+'.'}
