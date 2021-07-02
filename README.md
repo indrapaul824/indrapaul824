@@ -76,7 +76,11 @@ __NYU Deep Learning, Yann LeCun and Alfredo Canziani, Spring 21 (YouTube Playlis
 ---
 
 <!--START_SECTION:waka-->
-<img src="https://github.com/IndraP24/IndraP24/blob/main/images/stat.svg" alt="Indra WakaTime Activity"/>
+```text
+HTML       10 mins         ███████████▓░░░░░░░░░░░░░   46.27 % 
+YAML       8 mins          ██████████▒░░░░░░░░░░░░░░   40.89 % 
+Makefile   2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
+```
 <!--END_SECTION:waka-->
 
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=IndraP24&theme=github)
