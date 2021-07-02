@@ -76,9 +76,9 @@ __NYU Deep Learning, Yann LeCun and Alfredo Canziani, Spring 21 (YouTube Playlis
 ---
 
 <!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=IndraP24&theme=github)
+
+<!--END_SECTION:waka-->
 
 ⏳ **Year Progress** { ██████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 49.79 % as on ⏰ 1-7-2021.
 
