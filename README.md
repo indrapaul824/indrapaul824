@@ -74,7 +74,7 @@ __NYU Deep Learning, Yann LeCun and Alfredo Canziani, Spring 21 (YouTube Playlis
 <a><img src="https://img.shields.io/badge/NVIDIA-GeForce%20MX150-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/></a>
 
 ---
-
+### WakaTime Stats
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-231-blue)
 
