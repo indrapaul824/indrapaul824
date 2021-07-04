@@ -74,7 +74,7 @@ __NYU Deep Learning, Yann LeCun and Alfredo Canziani, Spring 21 (YouTube Playlis
 
 
 #### System Specs:
-<a><img src="https://img.shields.io/badge/Pop!_OS-DELL_INSPIRON_15-0078D6?style=for-the-badge&logo=Linux&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Pop!_OS-DELL_INSPIRON_15-0078D6?style=for-the-badge&logo=popos&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Intel-Core_i5_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/NVIDIA-GeForce%20MX150-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/></a>
 
