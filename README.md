@@ -14,6 +14,9 @@
 
 I'm a mathematically proficient Data Analyst and Machine Learning researcher and practitioner striving towards becoming an expert in **FullStack Machine Learning**. My area of expertise, as of now, includes developing, researching, and productionizing optimum solutions for Real-World Problems by leveraging Machine Learning and Deep Learning technologies.
 
+<h2>My GitHub Activity</h2>
+
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=IndraP24&theme=github)
 
 <h2>💻 Currently Learning</h2>
 
@@ -166,9 +169,6 @@ HTML                     2 repos             █░░░░░░░░░░�
 
  Last Updated on 06/07/2021
 <!--END_SECTION:waka-->
-
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=IndraP24&theme=github)
-
 
 ---
 
