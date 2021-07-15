@@ -76,11 +76,6 @@ __NYU Deep Learning, Yann LeCun and Alfredo Canziani, Spring 21 (YouTube Playlis
 <a><img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"/></a>
 
 
-#### System Specs:
-<a><img src="https://img.shields.io/badge/Pop!_OS-DELL_INSPIRON_15-0078D6?style=for-the-badge&logo=popos&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/Intel-Core_i5_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/NVIDIA-GeForce%20MX150-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/></a>
-
 ---
 ### WakaTime Stats
 <!--START_SECTION:waka-->
