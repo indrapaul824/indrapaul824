@@ -14,26 +14,22 @@
 
 I'm a mathematically proficient Data Analyst and Machine Learning researcher and practitioner striving towards becoming an expert in **FullStack Machine Learning**. My area of expertise, as of now, includes developing, researching, and productionizing optimum solutions for Real-World Problems by leveraging Machine Learning and Deep Learning technologies.
 
-<h2>My GitHub Activity</h2>
+## My GitHub Activity
 
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=IndraP24&theme=github)
 
-<h2>💻 Currently Learning</h2>
+## 💻 Currently Learning
 
 __CS Undergrad [splz. in AI & ML], Vellore Institute of Technology, Bhopal (2019 - 2024)__
-- Applied Machine Learning
-- Computer Vision
-- Programming in Java
-
-__Full Stack Deep Learning, UC Berkeley, Spring 2021 (Free version)__
-- Transformers
-- ML Projects
-- Infrastructure and Tooling
+- Data Visualisation
 
 __NYU Deep Learning, Yann LeCun and Alfredo Canziani, Spring 21 (YouTube Playlist)__
-- Fundamentals of Deep Learning
-- Neural Nets
-- Deep Learning with PyTroch
+
+__FastAPI with Docker__
+
+__PyTorch for Deep Learning__
+
+__JavaScript for Web (Fundamentals, ReactJS, etc.)__
 
 ---
 
