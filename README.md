@@ -27,7 +27,7 @@ __NYU Deep Learning, Yann LeCun and Alfredo Canziani, Spring 21 (YouTube Playlis
 
 __FastAPI with Docker__
 
-__PyTorch for Deep Learning__
+__PyTorch and TensorFlow for Deep Learning__
 
 __JavaScript for Web (Fundamentals, ReactJS, etc.)__
 
