@@ -75,13 +75,13 @@ __JavaScript for Web (Fundamentals, ReactJS, etc.)__
 ---
 ### WakaTime Stats
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.3%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 1,361 Contributions in the Year 2021
+> 🏆 1,362 Contributions in the Year 2021
  > 
 > 📦 1.6 MB Used in Github's Storage 
  > 
@@ -96,8 +96,8 @@ __JavaScript for Web (Fundamentals, ReactJS, etc.)__
 ```text
 🌞 Morning    134 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   8.83% 
 🌆 Daytime    243 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.02% 
-🌃 Evening    943 commits    ███████████████░░░░░░░░░░   62.16% 
-🌙 Night      197 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.99%
+🌃 Evening    942 commits    ███████████████░░░░░░░░░░   62.1% 
+🌙 Night      198 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.05%
 
 ```
 📅 **I'm Most Productive on Saturday** 
@@ -158,7 +158,7 @@ Java                     2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/IndraP24/IndraP24/main/charts/bar_graph.png) 
 
 
- Last Updated on 03/08/2021
+ Last Updated on 05/08/2021
 <!--END_SECTION:waka-->
 
 ---
