@@ -75,13 +75,13 @@ __JavaScript for Web (Fundamentals, ReactJS, etc.)__
 ---
 ### WakaTime Stats
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-28-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-24-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.3%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 1,607 Contributions in the Year 2021
+> 🏆 1,608 Contributions in the Year 2021
  > 
 > 📦 1.6 MB Used in Github's Storage 
  > 
@@ -96,20 +96,20 @@ __JavaScript for Web (Fundamentals, ReactJS, etc.)__
 ```text
 🌞 Morning    150 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   8.68% 
 🌆 Daytime    281 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.25% 
-🌃 Evening    1078 commits   ███████████████░░░░░░░░░░   62.35% 
-🌙 Night      220 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.72%
+🌃 Evening    1077 commits   ███████████████░░░░░░░░░░   62.29% 
+🌙 Night      221 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.78%
 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday       278 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.08% 
+Monday       279 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.14% 
 Tuesday      190 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.99% 
 Wednesday    294 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.0% 
 Thursday     254 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.69% 
 Friday       196 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.34% 
 Saturday     347 commits    █████░░░░░░░░░░░░░░░░░░░░   20.07% 
-Sunday       170 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.83%
+Sunday       169 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.77%
 
 ```
 
@@ -158,7 +158,7 @@ Java                     3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/IndraP24/IndraP24/main/charts/bar_graph.png) 
 
 
- Last Updated on 22/08/2021
+ Last Updated on 23/08/2021
 <!--END_SECTION:waka-->
 
 ---
