@@ -18,6 +18,24 @@ I'm a mathematically proficient Data Analyst and Machine Learning researcher and
 
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=IndraP24&theme=github)
 
+---
+
+**Github Streak:**
+<p align = "center">
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=IndraP24&line_height=30&theme=dracula">
+</p>
+
+---
+
+**Github Stats:**
+
+<p align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=IndraP24&show_icons=true&line_height=24&theme=dracula&include_all_commits=true&count_private=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IndraP24&count_private=true&line_height=40&theme=dracula&layout=compact&langs_count=8">
+
+</p>
+
 ## 💻 Currently Learning
 
 __CS Undergrad [splz. in AI & ML], Vellore Institute of Technology, Bhopal (2019 - 2024)__
@@ -141,43 +159,13 @@ Linux                    11 hrs 15 mins      ███████████�
 
 ```
 
-**I Mostly Code in Python** 
 
-```text
-Python                   23 repos            █████████░░░░░░░░░░░░░░░░   35.94% 
-Jupyter Notebook         21 repos            ████████░░░░░░░░░░░░░░░░░   32.81% 
-JavaScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.38% 
-HTML                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.38% 
-Java                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.69%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/IndraP24/IndraP24/main/charts/bar_graph.png) 
 
 
  Last Updated on 23/08/2021
 <!--END_SECTION:waka-->
 
----
 
-**Github Streak:**
-<p align = "center">
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=IndraP24&line_height=30&theme=dracula">
-</p>
-
----
-
-**Github Stats:**
-
-<p align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=IndraP24&show_icons=true&line_height=24&theme=dracula&include_all_commits=true&count_private=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IndraP24&count_private=true&line_height=40&theme=dracula&layout=compact&langs_count=8">
-
-</p>
 
 ---
 
