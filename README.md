@@ -93,13 +93,13 @@ __JavaScript for Web (Fundamentals, ReactJS, etc.)__
 ---
 ### WakaTime Stats
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-26-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.4%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 1,660 Contributions in the Year 2021
+> 🏆 1,662 Contributions in the Year 2021
  > 
 > 📦 1.6 MB Used in Github's Storage 
  > 
@@ -114,8 +114,8 @@ __JavaScript for Web (Fundamentals, ReactJS, etc.)__
 ```text
 🌞 Morning    153 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   8.82% 
 🌆 Daytime    281 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.21% 
-🌃 Evening    1070 commits   ███████████████░░░░░░░░░░   61.71% 
-🌙 Night      230 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.26%
+🌃 Evening    1069 commits   ███████████████░░░░░░░░░░   61.65% 
+🌙 Night      231 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.32%
 
 ```
 
@@ -146,7 +146,7 @@ Linux                    8 hrs 51 mins       ███████████�
 ```
 
 
- Last Updated on 01/09/2021
+ Last Updated on 03/09/2021
 <!--END_SECTION:waka-->
 
 
