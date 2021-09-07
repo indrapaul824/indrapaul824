@@ -39,7 +39,7 @@ I'm a mathematically proficient Data Analyst and Machine Learning researcher and
 ## 💻 Currently Learning
 
 __CS Undergrad [splz. in AI & ML], Vellore Institute of Technology, Bhopal (2019 - 2024)__
-- Data Visualisation
+- Artificial Neural Networks, Nattural Language Processing, Reinforcement Learning, Fuzzy Logic based Expert Systems
 
 __NYU Deep Learning, Yann LeCun and Alfredo Canziani, Spring 21 (YouTube Playlist)__
 
@@ -47,7 +47,9 @@ __FastAPI with Docker__
 
 __PyTorch and TensorFlow for Deep Learning__
 
-__JavaScript for Web (Fundamentals, ReactJS, etc.)__
+__JavaScript and TypeScript for Web (Fundamentals, ReactJS, etc.)__
+
+__GoLang for Web Servers__
 
 ---
 
