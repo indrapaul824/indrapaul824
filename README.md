@@ -95,13 +95,13 @@ __GoLang for Web Servers__
 ---
 ### WakaTime Stats
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.4%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 1,735 Contributions in the Year 2021
+> 🏆 1,737 Contributions in the Year 2021
  > 
 > 📦 1.6 MB Used in Github's Storage 
  > 
@@ -114,10 +114,10 @@ __GoLang for Web Servers__
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    163 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.1% 
-🌆 Daytime    279 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.57% 
-🌃 Evening    1117 commits   ███████████████░░░░░░░░░░   62.33% 
-🌙 Night      233 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.0%
+🌞 Morning    164 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.15% 
+🌆 Daytime    279 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.56% 
+🌃 Evening    1117 commits   ███████████████░░░░░░░░░░   62.3% 
+🌙 Night      233 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.99%
 
 ```
 
