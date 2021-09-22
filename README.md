@@ -118,15 +118,15 @@ __Web Scraping with Ruby and Nokogiri__
 ---
 ### WakaTime Stats
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.4%20million%20lines%20of%20code-blue)
 
-**🐱 My Github Data** 
+**🐱 My GitHub Data** 
 
-> 🏆 1,776 Contributions in the Year 2021
+> 🏆 1,793 Contributions in the Year 2021
  > 
-> 📦 1.6 MB Used in Github's Storage 
+> 📦 1.6 MB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -137,10 +137,10 @@ __Web Scraping with Ruby and Nokogiri__
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    167 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.23% 
-🌆 Daytime    275 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.2% 
-🌃 Evening    1128 commits   ███████████████░░░░░░░░░░   62.35% 
-🌙 Night      239 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.21%
+🌞 Morning    166 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.1% 
+🌆 Daytime    277 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.19% 
+🌃 Evening    1141 commits   ███████████████░░░░░░░░░░   62.55% 
+🌙 Night      240 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.16%
 
 ```
 
@@ -172,7 +172,7 @@ Linux                    4 hrs 56 mins       ███████████�
 ```
 
 
- Last Updated on 21/09/2021
+ Last Updated on 22/09/2021
 <!--END_SECTION:waka-->
 
 
