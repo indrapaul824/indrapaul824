@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋 I am  Indrashis Paul  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 
-<h3 align="center">Data Analyst and Researcher || ML Team Memebr @DSC VIT BHOPAL || FullStack Machine Learning Enthusiast || Pythoneer 🐍</h3>
+<h3 align="center">ML Researcher and Developer || ML Team Memebr @GDSC VIT BHOPAL 2020-21</h3>
 
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=IndraP24.visitor-badge)](https://github.com/IndraP24)
