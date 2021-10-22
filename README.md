@@ -117,13 +117,13 @@ __Web Scraping with Ruby and Nokogiri__
 ---
 ### WakaTime Stats
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.4%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 2,020 Contributions in the Year 2021
+> 🏆 2,021 Contributions in the Year 2021
  > 
 > 📦 1.6 MB Used in GitHub's Storage 
  > 
@@ -148,30 +148,21 @@ __Web Scraping with Ruby and Nokogiri__
 
 ```text
 💬 Programming Languages: 
-Ruby                     1 hr 5 mins         █████░░░░░░░░░░░░░░░░░░░░   22.12% 
-TypeScript               59 mins             █████░░░░░░░░░░░░░░░░░░░░   20.25% 
-Jupyter Notebook         46 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.62% 
-YAML                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.74% 
-Makefile                 24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.24%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 hrs 50 mins       ████████████████████████░   97.92% 
-IntelliJ                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.08%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Web-Scraper-using-Ruby   1 hr 6 mins         █████░░░░░░░░░░░░░░░░░░░░   22.54% 
-DSA-Complete             1 hr 3 mins         █████░░░░░░░░░░░░░░░░░░░░   21.27% 
-5G Network Slicing       52 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.79% 
-Complete Deep Learning wi42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.4% 
-hello-rust               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.4%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    4 hrs 56 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 19/10/2021
+ Last Updated on 22/10/2021
 <!--END_SECTION:waka-->
 
 
