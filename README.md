@@ -123,7 +123,7 @@ __Web Scraping with Ruby and Nokogiri__
 
 **🐱 My GitHub Data** 
 
-> 🏆 2,022 Contributions in the Year 2021
+> 🏆 2,023 Contributions in the Year 2021
  > 
 > 📦 1.6 MB Used in GitHub's Storage 
  > 
@@ -148,21 +148,24 @@ __Web Scraping with Ruby and Nokogiri__
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Makefile                 10 mins             █████████████████░░░░░░░░   69.16% 
+JavaScript               2 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.48% 
+Jupyter Notebook         2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   14.36%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  15 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Skin-Cancer-Detector     13 mins             █████████████████████░░░░   85.64% 
+TensorFlow-Tutorial      2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   14.36%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    15 mins             █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 23/10/2021
+ Last Updated on 24/10/2021
 <!--END_SECTION:waka-->
 
 
