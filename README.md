@@ -117,13 +117,13 @@ __Web Scraping with Ruby and Nokogiri__
 ---
 ### WakaTime Stats
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.5%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 2,166 Contributions in the Year 2021
+> 🏆 2,167 Contributions in the Year 2021
  > 
 > 📦 1.7 MB Used in GitHub's Storage 
  > 
@@ -148,21 +148,21 @@ __Web Scraping with Ruby and Nokogiri__
 
 ```text
 💬 Programming Languages: 
-Other                    11 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Sublime Text             11 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          11 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    11 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 21/11/2021
+ Last Updated on 22/11/2021
 <!--END_SECTION:waka-->
 
 
