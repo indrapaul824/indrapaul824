@@ -123,7 +123,7 @@ __Web Scraping with Ruby and Nokogiri__
 
 **🐱 My GitHub Data** 
 
-> 🏆 2,168 Contributions in the Year 2021
+> 🏆 2,169 Contributions in the Year 2021
  > 
 > 📦 1.7 MB Used in GitHub's Storage 
  > 
@@ -138,8 +138,8 @@ __Web Scraping with Ruby and Nokogiri__
 ```text
 🌞 Morning    173 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   8.93% 
 🌆 Daytime    319 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.46% 
-🌃 Evening    1186 commits   ███████████████░░░░░░░░░░   61.2% 
-🌙 Night      260 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.42%
+🌃 Evening    1185 commits   ███████████████░░░░░░░░░░   61.15% 
+🌙 Night      261 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.47%
 
 ```
 
@@ -148,21 +148,21 @@ __Web Scraping with Ruby and Nokogiri__
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Jupyter Notebook         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Deep-Learning-with-Tensor0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 ```
 
 
- Last Updated on 23/11/2021
+ Last Updated on 24/11/2021
 <!--END_SECTION:waka-->
 
 
