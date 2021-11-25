@@ -16,7 +16,7 @@ I'm a mathematically proficient Data Analyst and Machine Learning researcher and
 
 ## My GitHub Activity
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=IndraP24&theme=github)
+![Activity Graph](https://github-act-graph.herokuapp.com/graph?username=IndraP24&theme=github)
 
 ---
 
