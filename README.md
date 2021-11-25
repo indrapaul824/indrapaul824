@@ -117,29 +117,29 @@ __Web Scraping with Ruby and Nokogiri__
 ---
 ### WakaTime Stats
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.5%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 2,169 Contributions in the Year 2021
+> 🏆 2,172 Contributions in the Year 2021
  > 
 > 📦 1.7 MB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 109 Public Repositories 
+> 📜 110 Public Repositories 
  > 
 > 🔑 2 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    173 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   8.93% 
-🌆 Daytime    319 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.46% 
-🌃 Evening    1185 commits   ███████████████░░░░░░░░░░   61.15% 
-🌙 Night      261 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.47%
+🌞 Morning    171 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   8.87% 
+🌆 Daytime    317 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.44% 
+🌃 Evening    1180 commits   ███████████████░░░░░░░░░░   61.2% 
+🌙 Night      260 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.49%
 
 ```
 
@@ -148,21 +148,22 @@ __Web Scraping with Ruby and Nokogiri__
 
 ```text
 💬 Programming Languages: 
-Jupyter Notebook         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+HTML                     9 mins              █████████████████░░░░░░░░   68.94% 
+Jupyter Notebook         4 mins              ███████░░░░░░░░░░░░░░░░░░   31.06%
 
 🔥 Editors: 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+VS Code                  13 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Deep-Learning-with-Tensor0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+Deep-Learning-with-Tensor13 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+Linux                    13 mins             █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 24/11/2021
+ Last Updated on 25/11/2021
 <!--END_SECTION:waka-->
 
 
