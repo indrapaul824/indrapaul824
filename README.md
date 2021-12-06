@@ -117,13 +117,13 @@ __Web Scraping with Ruby and Nokogiri__
 ---
 ### WakaTime Stats
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-892339%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-892%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 2,196 Contributions in the Year 2021
+> 🏆 2,197 Contributions in the Year 2021
  > 
 > 📦 1.7 MB Used in GitHub's Storage 
  > 
@@ -148,23 +148,23 @@ __Web Scraping with Ruby and Nokogiri__
 
 ```text
 💬 Programming Languages: 
-Jupyter Notebook         2 hrs 7 mins        █████████████████████████   100.0% 
+Jupyter Notebook         1 hr 54 mins        █████████████████████████   100.0% 
 JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-VS Code                  2 hrs 7 mins        █████████████████████████   100.0%
+VS Code                  1 hr 54 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Deep-Learning-with-Tensor2 hrs 7 mins        █████████████████████████   100.0% 
+Deep-Learning-with-Tensor1 hr 54 mins        █████████████████████████   100.0% 
 Skin-Cancer-Detector     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 💻 Operating System: 
-Linux                    2 hrs 7 mins        █████████████████████████   100.0%
+Linux                    1 hr 54 mins        █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 05/12/2021
+ Last Updated on 06/12/2021
 <!--END_SECTION:waka-->
 
 
