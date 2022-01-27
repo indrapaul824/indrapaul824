@@ -8,7 +8,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/IndraP24) 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/IndraP24)
 
-[![Visit Webpage](https://indrap24.github.io/IndraP24/)](https://indrap24.github.io/IndraP24/)
+[![Website](https://img.shields.io/website?down_color=red&down_message=offline&style=for-the-badge&up_color=blue&up_message=IndraP24&url=https%3A%2F%2Findrap24.github.io%2FIndraP24%2F)](https://indrap24.github.io/IndraP24/)
 
 ---
 
