@@ -5,9 +5,9 @@ name: Python MD to HTML
 
 on:
   push:
-    branches: [ main ]
+    branches: [ user ]
   pull_request:
-    branches: [ main ]
+    branches: [ user ]
 
 jobs:
   build:
