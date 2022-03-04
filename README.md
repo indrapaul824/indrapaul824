@@ -117,11 +117,11 @@ __DSA with Java__
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-851%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-852%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 186 Contributions in the Year 2022
+> 🏆 190 Contributions in the Year 2022
  > 
 > 📦 2.0 MB Used in GitHub's Storage 
  > 
@@ -146,23 +146,23 @@ __DSA with Java__
 
 ```text
 💬 Programming Languages: 
-Jupyter Notebook         8 hrs 1 min         █████████████████████████   99.64% 
-Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.36%
+Jupyter Notebook         7 hrs 33 mins       █████████████████████████   99.62% 
+Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.38%
 
 🔥 Editors: 
-VS Code                  8 hrs 2 mins        █████████████████████████   100.0%
+VS Code                  7 hrs 34 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-MyNotebooks              6 hrs 36 mins       ████████████████████░░░░░   82.02% 
-Deep-Learning-with-Tensor1 hr 26 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.98%
+MyNotebooks              6 hrs 36 mins       █████████████████████░░░░   87.05% 
+Deep-Learning-with-Tensor58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.95%
 
 💻 Operating System: 
-Linux                    8 hrs 2 mins        █████████████████████████   100.0%
+Linux                    7 hrs 34 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 03/03/2022 18:52:20 UTC
+ Last Updated on 04/03/2022 18:59:31 UTC
 <!--END_SECTION:waka-->
 
 
