@@ -115,13 +115,13 @@ __DSA with Java__
 ---
 ### WakaTime Stats
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-852%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 193 Contributions in the Year 2022
+> 🏆 194 Contributions in the Year 2022
  > 
 > 📦 2.0 MB Used in GitHub's Storage 
  > 
@@ -146,23 +146,23 @@ __DSA with Java__
 
 ```text
 💬 Programming Languages: 
-Jupyter Notebook         5 hrs 17 mins       █████████████████████████   99.91% 
-CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09%
+Jupyter Notebook         0 secs              █████████████████████████   100.0% 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-VS Code                  5 hrs 17 mins       █████████████████████████   100.0%
+VS Code                  0 secs              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-MyNotebooks              3 hrs 37 mins       █████████████████░░░░░░░░   68.57% 
-Deep-Learning-with-Tensor1 hr 39 mins        ███████░░░░░░░░░░░░░░░░░░   31.43%
+Deep-Learning-with-Tensor0 secs              █████████████████████████   100.0% 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 💻 Operating System: 
-Linux                    5 hrs 17 mins       █████████████████████████   100.0%
+Linux                    0 secs              █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 08/03/2022 18:54:48 UTC
+ Last Updated on 12/03/2022 18:52:40 UTC
 <!--END_SECTION:waka-->
 
 
