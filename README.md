@@ -111,8 +111,13 @@ __DSA with Java__
 <a><img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"/></a>
 <a><img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"/></a>
 
-
 ---
+<details align="center">
+<summary>🔎 A detailed glimpse of my Github Profile </summary>
+<br>
+
+![Metrics](https://metrics.lecoq.io/IndraP24?template=classic&isocalendar=1&languages=1&stars=1&projects=1&stargazers=1&achievements=1&wakatime=1&traffic=1&notable=1&habits=1&activity=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=4&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.trim=false&stargazers.charts.type=classic&projects.limit=4&projects.descriptions=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&wakatime.days=7&wakatime.sections=time%2C%20projects%2C%20projects-graphs%2C%20languages%2C%20languages-graphs%2C%20editors%2C%20os&wakatime.limit=5&wakatime.url=https%3A%2F%2Fwakatime.com&wakatime.user=current&config.timezone=Asia%2FCalcutta)
+
 ### WakaTime Stats
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
