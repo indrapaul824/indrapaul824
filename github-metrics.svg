@@ -75,7 +75,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2885 Commits
+                            2886 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -209,7 +209,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    961 views in last two weeks
+                                    950 views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -231,14 +231,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="441.6020512998562" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="441.6020512998562" y="0" width="8.170937446243729" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="449.77298874609994" y="0" width="4.723639502751532" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="454.4966282488515" y="0" width="3.6368356513958084" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="458.13346390024725" y="0" width="1.2338099919986996" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="459.367273892246" y="0" width="0.4435277054890183" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="459.810801597735" y="0" width="0.10107362616725085" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="459.91187522390226" y="0" width="0.08812477609773266" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="441.66438810586993" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="441.66438810586993" y="0" width="8.152943365673268" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="449.81733147154324" y="0" width="4.703158538727606" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="454.52049001027086" y="0" width="3.6210668993363466" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="458.1415569096072" y="0" width="1.2284603843405018" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="459.3700172939477" y="0" width="0.4416046385457337" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="459.81162193249344" y="0" width="0.10063538669108138" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="459.9122573191845" y="0" width="0.0877426808155201" height="8" fill="#427819"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -340,7 +340,7 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 88.0 characters per line of code written</li>
+                        <li>Has approximately 87.7 characters per line of code written</li>
                         <li>Mostly pushes code around 00:00</li>
                         <li>Mostly active on Monday</li>
                     </ul>
@@ -1781,6 +1781,26 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#8e9fe67</div>
+                                        <div class="message">Update Inference</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">IndraP24/VORTEX</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#c5a150b</div>
                                         <div class="message">Update markdown descriptions</div>
                                     </div>
@@ -1843,26 +1863,6 @@
                                     <div class="commit">
                                         <div class="sha">#9b993a3</div>
                                         <div class="message">Merge branch 'main' of https://github.com/IndraP24/VORTEX</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">IndraP24/VORTEX</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#223a1e8</div>
-                                        <div class="message">Update index.html</div>
                                     </div>
                                 </div>
                             </section>
@@ -2013,7 +2013,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="22.939999999999998 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="23.1725 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2035,7 +2035,7 @@
                                     <span class="prefix">Super</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 796 times</div>
+                                <div class="text">Repositories have been deployed 799 times</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -2432,7 +2432,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Mar 2022, 20:41:47 (timezone Asia/Calcutta) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 28 Mar 2022, 21:44:47 (timezone Asia/Calcutta) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
