@@ -151,13 +151,15 @@ Domain | Technology/Tool
 
 ### WakaTime Stats
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-932%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 433 Contributions in the Year 2022
+> 🏆 434 Contributions in the Year 2022
  > 
 > 📦 2.3 MB Used in GitHub's Storage 
  > 
@@ -182,21 +184,21 @@ Domain | Technology/Tool
 
 ```text
 💬 Programming Languages: 
-Arduino                  2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-LED_Arduino              2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 06/05/2022 19:03:20 UTC
+ Last Updated on 07/05/2022 18:56:08 UTC
 <!--END_SECTION:waka-->
 
 
