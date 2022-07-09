@@ -153,29 +153,29 @@ Domain | Technology/Tool
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-933%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-934%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 553 Contributions in the Year 2022
+> 🏆 559 Contributions in the Year 2022
  > 
 > 📦 2.3 MB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 106 Public Repositories 
+> 📜 107 Public Repositories 
  > 
 > 🔑 3 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    167 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.37% 
-🌆 Daytime    284 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.63% 
-🌃 Evening    879 commits    █████████████░░░░░░░░░░░░   54.56% 
-🌙 Night      281 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.44%
+🌞 Morning    169 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.81% 
+🌆 Daytime    274 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.52% 
+🌃 Evening    842 commits    █████████████░░░░░░░░░░░░   53.84% 
+🌙 Night      279 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.84%
 
 ```
 
@@ -184,21 +184,24 @@ Domain | Technology/Tool
 
 ```text
 💬 Programming Languages: 
-Java                     2 hrs 52 mins       █████████████████████████   100.0%
+Java                     2 hrs 37 mins       ████████████████████░░░░░   81.59% 
+R                        35 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.41%
 
 🔥 Editors: 
-IntelliJ                 2 hrs 52 mins       █████████████████████████   100.0%
+IntelliJ                 2 hrs 37 mins       ████████████████████░░░░░   81.59% 
+Sublime Text             35 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.41%
 
 🐱‍💻 Projects: 
-DSA-Complete             2 hrs 52 mins       █████████████████████████   100.0%
+DSA-Complete             2 hrs 37 mins       ████████████████████░░░░░   81.59% 
+Unknown Project          35 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.41%
 
 💻 Operating System: 
-Linux                    2 hrs 52 mins       █████████████████████████   100.0%
+Linux                    3 hrs 13 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 08/07/2022 19:13:07 UTC
+ Last Updated on 09/07/2022 19:00:19 UTC
 <!--END_SECTION:waka-->
 
 
