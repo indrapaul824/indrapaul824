@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/IndraP24/IndraP24"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.9-FF1493.svg"></a>
+    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
     <a href="https://github.com/IndraP24/IndraP24/graphs/contributors"><img src="https://img.shields.io/github/contributors/IndraP24/IndraP24?color=blue"></a>
     <a href="https://github.com/IndraP24/IndraP24/stargazers"><img src="https://img.shields.io/github/stars/IndraP24/IndraP24.svg?logo=github"></a>
     <a href="https://github.com/IndraP24/IndraP24/network/members"><img src="https://img.shields.io/github/forks/IndraP24/IndraP24.svg?color=blue&logo=github"></a>
