@@ -151,15 +151,15 @@ Domain | Technology/Tool
 
 ### WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-366%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-367%20hrs%2050%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-959%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 626 Contributions in the Year 2022
+> 🏆 627 Contributions in the Year 2022
  > 
 > 📦 2.3 MB Used in GitHub's Storage 
  > 
@@ -184,24 +184,26 @@ Domain | Technology/Tool
 
 ```text
 💬 Programming Languages: 
-Python                   10 mins             █████████████████████████   100.0% 
+R                        2 hrs 5 mins        ████████████████████░░░░░   82.08% 
+RMarkdown                16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.94% 
+Python                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.98% 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-VS Code                  10 mins             █████████████████████████   100.0% 
+VS Code                  2 hrs 33 mins       █████████████████████████   100.0% 
 Sublime Text             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🐱‍💻 Projects: 
-Experiments              10 mins             █████████████████████████   100.0% 
+Experiments              2 hrs 33 mins       █████████████████████████   100.0% 
 Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 💻 Operating System: 
-Linux                    10 mins             █████████████████████████   100.0%
+Linux                    2 hrs 33 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 18/08/2022 19:13:51 UTC
+ Last Updated on 19/08/2022 19:17:49 UTC
 <!--END_SECTION:waka-->
 
 
