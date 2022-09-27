@@ -151,15 +151,15 @@ Domain | Technology/Tool
 
 ### WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-436%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-436%20hrs%2057%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-945%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 767 Contributions in the Year 2022
+> 🏆 768 Contributions in the Year 2022
  > 
 > 📦 2.3 MB Used in GitHub's Storage 
  > 
@@ -169,8 +169,45 @@ Domain | Technology/Tool
  > 
 > 🔑 3 Private Repositories  
  > 
+**I'm a Night 🦉** 
 
- Last Updated on 26/09/2022 19:06:06 UTC
+```text
+🌞 Morning    132 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.51% 
+🌆 Daytime    189 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.91% 
+🌃 Evening    518 commits    ████████████░░░░░░░░░░░░░   49.1% 
+🌙 Night      216 commits    █████░░░░░░░░░░░░░░░░░░░░   20.47%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+R                        5 hrs 40 mins       ██████████████░░░░░░░░░░░   55.81% 
+Python                   2 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   22.84% 
+Java                     1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.69% 
+YAML                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.14% 
+Jupyter Notebook         11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.92%
+
+🔥 Editors: 
+VS Code                  9 hrs 40 mins       ███████████████████████░░   95.26% 
+IntelliJ                 28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.74%
+
+🐱‍💻 Projects: 
+interactive-data-analyser6 hrs               ██████████████░░░░░░░░░░░   59.06% 
+Documents                1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.25% 
+Course-LabWorks          1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.34% 
+DSA-Complete             28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.74% 
+Solve                    15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.51%
+
+💻 Operating System: 
+Linux                    10 hrs 9 mins       █████████████████████████   100.0%
+
+```
+
+
+ Last Updated on 27/09/2022 19:16:44 UTC
 <!--END_SECTION:waka-->
 
 
