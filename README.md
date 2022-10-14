@@ -155,11 +155,11 @@ Domain | Technology/Tool
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-717%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-701%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 790 Contributions in the Year 2022
+> 🏆 795 Contributions in the Year 2022
  > 
 > 📦 2.1 MB Used in GitHub's Storage 
  > 
@@ -172,10 +172,10 @@ Domain | Technology/Tool
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    123 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.05% 
-🌆 Daytime    183 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.92% 
-🌃 Evening    502 commits    ████████████░░░░░░░░░░░░░   49.17% 
-🌙 Night      213 commits    █████░░░░░░░░░░░░░░░░░░░░   20.86%
+🌞 Morning    123 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.0% 
+🌆 Daytime    183 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.85% 
+🌃 Evening    506 commits    ████████████░░░░░░░░░░░░░   49.37% 
+🌙 Night      213 commits    █████░░░░░░░░░░░░░░░░░░░░   20.78%
 
 ```
 
@@ -184,26 +184,21 @@ Domain | Technology/Tool
 
 ```text
 💬 Programming Languages: 
-Text                     4 mins              ████████████████████████░   98.05% 
-Prolog                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.87% 
-Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Sublime Text             4 mins              █████████████████████████   99.92% 
-IntelliJ                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          4 mins              ████████████████████████░   98.05% 
-Course-LabWorks          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.87% 
-DSA-Complete             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    4 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 13/10/2022 19:09:45 UTC
+ Last Updated on 14/10/2022 19:16:52 UTC
 <!--END_SECTION:waka-->
 
 
