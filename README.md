@@ -153,13 +153,13 @@ Domain | Technology/Tool
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-445%20hrs%2039%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-701%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 812 Contributions in the Year 2022
+> 🏆 813 Contributions in the Year 2022
  > 
 > 📦 2.1 MB Used in GitHub's Storage 
  > 
@@ -184,24 +184,21 @@ Domain | Technology/Tool
 
 ```text
 💬 Programming Languages: 
-Python                   41 mins             ███████████████░░░░░░░░░░   63.13% 
-Java                     23 mins             ████████░░░░░░░░░░░░░░░░░   35.2% 
-Ruby                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.67%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 5 mins         █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Solve                    1 hr 4 mins         ████████████████████████░   98.33% 
-Web-Scraper-using-Ruby   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.67%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 5 mins         █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 26/10/2022 18:59:13 UTC
+ Last Updated on 27/10/2022 19:14:26 UTC
 <!--END_SECTION:waka-->
 
 
