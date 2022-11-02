@@ -151,7 +151,7 @@ Domain | Technology/Tool
 
 ### WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-445%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-445%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -159,7 +159,7 @@ Domain | Technology/Tool
 
 **🐱 My GitHub Data** 
 
-> 🏆 818 Contributions in the Year 2022
+> 🏆 820 Contributions in the Year 2022
  > 
 > 📦 2.1 MB Used in GitHub's Storage 
  > 
@@ -172,10 +172,10 @@ Domain | Technology/Tool
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    117 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.99% 
-🌆 Daytime    170 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.42% 
-🌃 Evening    477 commits    ████████████░░░░░░░░░░░░░   48.87% 
-🌙 Night      212 commits    █████░░░░░░░░░░░░░░░░░░░░   21.72%
+🌞 Morning    117 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.01% 
+🌆 Daytime    170 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.45% 
+🌃 Evening    475 commits    ████████████░░░░░░░░░░░░░   48.77% 
+🌙 Night      212 commits    █████░░░░░░░░░░░░░░░░░░░░   21.77%
 
 ```
 
@@ -184,21 +184,21 @@ Domain | Technology/Tool
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     18 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 18 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Programming-In-Java      18 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    18 mins             █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 01/11/2022 19:00:49 UTC
+ Last Updated on 02/11/2022 18:57:08 UTC
 <!--END_SECTION:waka-->
 
 
