@@ -39,7 +39,6 @@ I'm a mathematically proficient Data Analyst and Machine Learning researcher and
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=IndraP24&line_height=30&theme=dracula">
 </p>
 
----
 
 **Github Stats:**
 
