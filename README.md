@@ -45,7 +45,7 @@ I'm a mathematically proficient Data Analyst and Machine Learning researcher and
 <p align="center">
   
   <img src="https://github-readme-stats.vercel.app/api?username=IndraP24&show_icons=true&line_height=24&theme=dracula&include_all_commits=true&count_private=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IndraP24&count_private=true&line_height=40&theme=dracula&layout=compact&langs_count=8">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IndraP24&count_private=true&line_height=36&theme=dracula&layout=compact&langs_count=8">
 
 </p>
 
