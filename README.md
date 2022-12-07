@@ -150,15 +150,15 @@ Domain | Technology/Tool
 
 ### WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-488%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-491%20hrs%2045%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-700%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-704%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 895 Contributions in the Year 2022
+> 🏆 897 Contributions in the Year 2022
  > 
 > 📦 2.1 MB Used in GitHub's Storage 
  > 
@@ -172,8 +172,8 @@ Domain | Technology/Tool
 
 ```text
 🌞 Morning    129 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.14% 
-🌆 Daytime    179 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.23% 
-🌃 Evening    470 commits    ████████████░░░░░░░░░░░░░   47.86% 
+🌆 Daytime    180 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.33% 
+🌃 Evening    469 commits    ████████████░░░░░░░░░░░░░   47.76% 
 🌙 Night      204 commits    █████░░░░░░░░░░░░░░░░░░░░   20.77%
 
 ```
@@ -183,22 +183,24 @@ Domain | Technology/Tool
 
 ```text
 💬 Programming Languages: 
-Java                     8 hrs 40 mins       █████████████████████████   100.0%
+Java                     8 hrs 4 mins        █████████████████████████   100.0%
 
 🔥 Editors: 
-IntelliJ                 8 hrs 40 mins       █████████████████████████   100.0%
+IntelliJ                 7 hrs 41 mins       ███████████████████████░░   95.11% 
+VS Code                  23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.89%
 
 🐱‍💻 Projects: 
-DSA-Complete             7 hrs 50 mins       ██████████████████████░░░   90.48% 
-Programming-In-Java      49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.52%
+DSA-Complete             4 hrs 19 mins       █████████████░░░░░░░░░░░░   53.54% 
+Programming-In-Java      3 hrs 21 mins       ██████████░░░░░░░░░░░░░░░   41.57% 
+Solve                    23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.89%
 
 💻 Operating System: 
-Linux                    8 hrs 40 mins       █████████████████████████   100.0%
+Linux                    8 hrs 4 mins        █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 06/12/2022 18:54:23 UTC
+ Last Updated on 07/12/2022 18:54:22 UTC
 <!--END_SECTION:waka-->
 
 
