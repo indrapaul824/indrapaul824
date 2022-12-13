@@ -150,7 +150,7 @@ Domain | Technology/Tool
 
 ### WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-499%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-501%20hrs%2032%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -158,7 +158,7 @@ Domain | Technology/Tool
 
 **🐱 My GitHub Data** 
 
-> 🏆 918 Contributions in the Year 2022
+> 🏆 919 Contributions in the Year 2022
  > 
 > 📦 2.1 MB Used in GitHub's Storage 
  > 
@@ -168,8 +168,39 @@ Domain | Technology/Tool
  > 
 > 🔑 3 Private Repositories  
  > 
+**I'm a Night 🦉** 
 
- Last Updated on 12/12/2022 18:50:34 UTC
+```text
+🌞 Morning    129 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.3% 
+🌆 Daytime    179 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.45% 
+🌃 Evening    463 commits    ████████████░░░░░░░░░░░░░   47.73% 
+🌙 Night      199 commits    █████░░░░░░░░░░░░░░░░░░░░   20.52%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Java                     13 hrs 8 mins       █████████████████████████   100.0%
+
+🔥 Editors: 
+IntelliJ                 12 hrs 26 mins      ███████████████████████░░   94.68% 
+VS Code                  41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.32%
+
+🐱‍💻 Projects: 
+DSA-Complete             9 hrs 18 mins       █████████████████░░░░░░░░   70.86% 
+Programming-In-Java      3 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   23.82% 
+Solve                    41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.32%
+
+💻 Operating System: 
+Linux                    13 hrs 8 mins       █████████████████████████   100.0%
+
+```
+
+
+ Last Updated on 13/12/2022 18:49:58 UTC
 <!--END_SECTION:waka-->
 
 
