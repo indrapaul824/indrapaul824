@@ -30,7 +30,7 @@ I'm a mathematically proficient Data Analyst and Machine Learning researcher and
 
 ## My GitHub Activity
 
-[![My github activity graph](https://activity-graph.herokuapp.com/graph?username=IndraP24&custom_title=My%20Activity%20Graph&hide_border=true&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![My github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=IndraP24&custom_title=My%20Activity%20Graph&hide_border=true&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
