@@ -11,7 +11,6 @@
 <p align="center">
   <a href="https://github.com/IndraP24?tab=followers"><img src="https://img.shields.io/github/followers/IndraP24.svg?style=social&label=Follow"></a>
   <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" alt="open-source"/>
-  <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="awesome"/>
 </p>
 
 <h1 align="center">Hey there 👋 I am  Indrashis Paul  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
