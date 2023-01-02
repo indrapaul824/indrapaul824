@@ -151,13 +151,13 @@ Domain | Technology/Tool
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-513%20hrs%2021%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-699%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 8 Contributions in the Year 2023
+> 🏆 11 Contributions in the Year 2023
  > 
 > 📦 2.1 MB Used in GitHub's Storage 
  > 
@@ -167,36 +167,8 @@ Domain | Technology/Tool
  > 
 > 🔑 3 Private Repositories  
  > 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning    130 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.64% 
-🌆 Daytime    162 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.0% 
-🌃 Evening    465 commits    ████████████░░░░░░░░░░░░░   48.79% 
-🌙 Night      196 commits    █████░░░░░░░░░░░░░░░░░░░░   20.57%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Java                     3 hrs 51 mins       █████████████████████████   100.0%
-
-🔥 Editors: 
-IntelliJ                 3 hrs 51 mins       █████████████████████████   100.0%
-
-🐱‍💻 Projects: 
-DSA-Complete             3 hrs 51 mins       █████████████████████████   100.0%
-
-💻 Operating System: 
-Linux                    3 hrs 51 mins       █████████████████████████   100.0%
-
-```
-
-
- Last Updated on 01/01/2023 18:46:09 UTC
+ Last Updated on 02/01/2023 18:51:53 UTC
 <!--END_SECTION:waka-->
 
 
