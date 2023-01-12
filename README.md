@@ -149,7 +149,7 @@ Domain | Technology/Tool
 
 ### WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-514%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-515%20hrs%203%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -157,7 +157,7 @@ Domain | Technology/Tool
 
 **🐱 My GitHub Data** 
 
-> 🏆 24 Contributions in the Year 2023
+> 🏆 25 Contributions in the Year 2023
  > 
 > 📦 2.1 MB Used in GitHub's Storage 
  > 
@@ -182,21 +182,24 @@ Domain | Technology/Tool
 
 ```text
 💬 Programming Languages: 
-Java                     24 mins             █████████████████████████   100.0%
+Java                     18 mins             █████████████████░░░░░░░░   71.22% 
+Python                   7 mins              ███████░░░░░░░░░░░░░░░░░░   28.78%
 
 🔥 Editors: 
-IntelliJ                 24 mins             █████████████████████████   100.0%
+VS Code                  19 mins             ███████████████████░░░░░░   76.73% 
+IntelliJ                 6 mins              █████░░░░░░░░░░░░░░░░░░░░   23.27%
 
 🐱‍💻 Projects: 
-DSA-Complete             24 mins             █████████████████████████   100.0%
+Solve                    19 mins             ███████████████████░░░░░░   76.73% 
+DSA-Complete             6 mins              █████░░░░░░░░░░░░░░░░░░░░   23.27%
 
 💻 Operating System: 
-Linux                    24 mins             █████████████████████████   100.0%
+Linux                    25 mins             █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 11/01/2023 18:57:29 UTC
+ Last Updated on 12/01/2023 18:51:30 UTC
 <!--END_SECTION:waka-->
 
 
