@@ -149,15 +149,15 @@ Domain | Technology/Tool
 
 ### WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-556%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-557%20hrs%2011%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-700%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 90 Contributions in the Year 2023
+> 🏆 91 Contributions in the Year 2023
  > 
 > 📦 2.1 MB Used in GitHub's Storage 
  > 
@@ -182,24 +182,24 @@ Domain | Technology/Tool
 
 ```text
 💬 Programming Languages: 
-Java                     1 hr 33 mins        ██████████████████░░░░░░░   75.32 % 
-Python                   30 mins             ██████░░░░░░░░░░░░░░░░░░░   24.68 % 
+Java                     1 hr 51 mins        ████████████████████████░   99.22 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
 
 🔥 Editors: 
-VS Code                  1 hr 47 mins        █████████████████████░░░░   86.94 % 
-IntelliJ                 16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
+VS Code                  1 hr 18 mins        █████████████████░░░░░░░░   69.42 % 
+IntelliJ                 34 mins             ███████░░░░░░░░░░░░░░░░░░   30.58 % 
 
 🐱‍💻 Projects: 
-Solve                    1 hr 47 mins        █████████████████████░░░░   86.94 % 
-DSA-Complete             16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
+Solve                    1 hr 18 mins        █████████████████░░░░░░░░   69.42 % 
+DSA-Complete             34 mins             ███████░░░░░░░░░░░░░░░░░░   30.58 % 
 
 💻 Operating System: 
-Linux                    2 hrs 4 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 52 mins        █████████████████████████   100.00 % 
 
 ```
 
 
- Last Updated on 14/02/2023 18:49:35 UTC
+ Last Updated on 15/02/2023 18:54:15 UTC
 <!--END_SECTION:waka-->
 
 
