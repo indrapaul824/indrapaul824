@@ -30,7 +30,7 @@ I'm a mathematically proficient Data Analyst and Machine Learning researcher and
 
 ## My GitHub Activity
 
-[![My github activity  graph](https://github-readme-activity-graph-qtp3-7k8nyjqa4-indrapaul824.vercel.app//graph?username=indrapaul824&custom_title=My%20Activity%20Graph&hide_border=true&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![My github activity  graph](https://github-readme-activity-graph-qtp3-pbzzj4y5f-indrapaul824.vercel.app/graph?hide_border=true&custom_title=My%20Activity%20Graph&username=indrapaul824&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
