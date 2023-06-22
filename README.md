@@ -20,7 +20,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=ML+Researcher+and+Developer+)](https://git.io/typing-svg)[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=MLOps+%26+Fullstack+Enthusiast)](https://git.io/typing-svg)
 
 
-[![README Site](https://img.shields.io/website?down_color=red&down_message=offline&style=for-the-badge&up_color=blue&up_message=indrapaul824%20README&url=https%3A%2F%2Findrapaul824.github.io%2Findrapaul824%2F)](https://indrapaul824.github.io/indrapaul824/)
+[![WebSite](https://img.shields.io/website?down_color=red&down_message=offline&style=for-the-badge&up_color=blue&up_message=indrapaul824.github.io&url=https%3A%2F%2Findrapaul824.github.io)](https://indrapaul824.github.io/)
 
 ---
 
@@ -76,7 +76,7 @@ Domain | Technology/Tool
 
 
 
-<!-- ### Machine Learing Stack:
+<!-- ### Machine Learning Stack:
 
 <a><img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Pandas%20-%23150458.svg?&style=for-the-badge&logo=Pandas&logoColor=white"/></a>
